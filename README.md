@@ -31,7 +31,7 @@ So there you have it – that's me in a nutshell. Ready to team up and make some
 
 ## About Me
 
-I'm a recent Computer Science graduate with a passion for full-stack development and a specialization in the Internet of Things (IoT). I'm fascinated by the way technology can make our lives more efficient and enjoyable. With 2 years of freelancing experience, I've honed my skills in C, C++, Java, JavaScript, and Python.
+I'm a recent Computer Science graduate with a passion for full-stack development and a specialization in the Internet of Things (IoT). I'm fascinated by the way technology can make our lives more efficient and enjoyable. With 4 years of freelancing experience, I've honed my skills in C, C++, Java, JavaScript, and Python.
 
 In my spare time, you'll find me tinkering with IoT projects, running, volunteering, and exploring the great outdoors.
 
