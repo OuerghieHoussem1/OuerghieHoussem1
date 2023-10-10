@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 Recent CS Graduate | Fullstack Developer | IoT Enthusiast
 
-Hey there! 👋 Recent CS grad here, diving headfirst into the tech world like a kid in a candy store. I've got 2 years of freelance wizardry under my belt, conjuring up web, desktop, and mobile magic.
+Hey there! 👋 Recent CS grad here, diving headfirst into the tech world like a kid in a candy store. I've got 4 years of freelance wizardry under my belt, conjuring up web, desktop, and mobile magic.
 
 You know, I've got this quirky passion for IoT – it's like making everyday stuff do the cha-cha with technology. Picture this: I built a system that lets me boss around my room gadgets from anywhere. Who needs a remote control when you've got coding skills, right? 😄
 
