@@ -45,19 +45,80 @@ In my spare time, you'll find me tinkering with IoT projects, running, volunteer
 
 ## Work Experience
 
-### Full Stack Web Developer | [Company Name] | Mars 2021 - Present
-- [Brief description of your responsibilities and achievements in this role]
+### Full Stack Web Developer | Tunisian Red Crescent | Mars 2021 - Present
+- Developed a web application for member management, events, and finances.
+- Implemented secure user authentication and an online booking system.
+- Facilitated virtual meetings through a platform similar to Google Meet.
 
-### Full Stack Web Developer | [Company Name] | Fév. 2021 - Mars 2021
-- [Brief description of your responsibilities and achievements in this role]
+### Full Stack Web Developer | Infinity cocobeach / Freelancer | Fév. 2021 - Mars 2021
+- Created a versatile web application, including account management and feedback systems.
+- Designed and developed an efficient meeting platform.
+- Enhanced online booking functionality for improved user experiences.
 
-### Full Stack Web Developer | [Company Name] | Nov. 2019 - Déc. 2019
-- [Brief description of your responsibilities and achievements in this role]
+### Full Stack Developer | Flycom | Juin 2019 - Août 2019
+- Smart calendar.
+- Online booking.
+- Creation of accounts / login.
+- Customer feedback system.
+- Creation of the startup website.
+- A web game on the Festival International de Bizerte website.
 
-### Full Stack Developer | [Company Name] | Juin 2019 - Août 2019
-- [Brief description of your responsibilities and achievements in this role]
+### Full Stack Web Developer | Oservices / Freelancer | Nov. 2019 - Déc. 2019
+- Smart calendar.
+- Online booking.
+- Creation of accounts / login.
+- Customer feedback system.
+- Creation of the startup website.
+- A web game on the Festival International de Bizerte website.
 
-[Include your other work experiences similarly]
+### Full Stack Developer | LZIndus | February 2022 - Present
+- Working with ink screens / epapers.
+- Creating a system that shows data on epapers.
+- Connecting the web platform with the epaper displays using sockets.
+
+### Full Stack Web Developer | Crockin / Freelancer | Jan. 2020 - Mai 2020
+- E-commerce website for a restaurant.
+- A system that automatically prints bills when someone confirms his order, each part of the order has to be printed in the exact printer, than they all have to be assembled for the delivery guy to deliver them.
+
+### Full Stack Developer | SPORT WATER | October 2022 - Present
+- Creating a system for managing subscribers for a water distribution machine.
+- Creating the water and serum mixing system.
+- Creating the app for passing the card and choosing the type of drink.
+
+## Personal Projects
+
+### Access Control
+- A door lock that can only be opened using an RFID sensor, fingerprint sensor or the keypad pin.
+- An RFID Card administration page.
+- A dashboard from which you can open, close the door.
+- Check whether the door is open or closed.
+- Turn on and off the lights.
+- Add, activate, and deactivate RFID Cards that can access the system.
+
+### Training and Workshop in Arduino
+- Training in Arduino (C++) and electronic components.
+
+### Training and Workshop in C Language
+- C training for 1st-year students in computer science.
+
+### Training and Workshop in Node.js
+- Node.js training for students.
+
+### Mobile Application for the TSYP International Congress
+- Login and signup.
+- Display of the planning of the event.
+- Chat.
+- Workshops registration.
+- Scoreboard.
+- Profile management.
+- Administration page (import and export excel data).
+
+### Mobile Application (ACCOMPANINI)
+- Login and signup.
+- Map with GPS Tracking.
+- Chat.
+- Ride validation.
+- Profile management.
 
 ## Education
 
