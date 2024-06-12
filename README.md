@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 # Ouerghie Houssem
 
 Recent CS Graduate | Fullstack Developer | IoT Enthusiast
-<a href="https://app.daily.dev/ouerghiehoussem99"><img src="https://api.daily.dev/devcards/v2/vU5q7tO0FNyd0aU4EFJ71.png?r=7x3&type=default" width="356" alt="Ouerghie Houssem's Dev Card"/></a>
+<a href="https://app.daily.dev/ouerghiehoussem99"><img src="https://api.daily.dev/devcards/v2/vU5q7tO0FNyd0aU4EFJ71.png?r=7x3&type=wide" width="652" alt="Ouerghie Houssem's Dev Card"/></a>
 Hey there! 👋 Recent CS grad here, diving headfirst into the tech world like a kid in a candy store. I've got 4 years of freelance wizardry under my belt, conjuring up web, desktop, and mobile magic.
 
 You know, I've got this quirky passion for IoT – it's like making everyday stuff do the cha-cha with technology. Picture this: I built a system that lets me boss around my room gadgets from anywhere. Who needs a remote control when you've got coding skills, right? 😄
